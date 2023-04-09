@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;1,200;1,300&family=Righteous&family=Roboto:ital,wght@0,700;1,400;1,500&display=swap");
+
+* {
+  margin: 0%;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background-color: #000;
+  color: #fff;
+}
+.header-container {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding: 3rem;
+  border-radius: 10px;
+  background-color: #111112;
+  max-width: 500px;
+  margin: 1rem auto;
+}
+
+.App {
+  text-align: center;
+}
+
+.user {
+  text-align: center;
+}
+
+.input-class,
+.button-class {
+  padding: 5px 10px;
+  outline: none;
+}
+
+.img {
+  width: 200px;
+  border-radius: 50%;
+  border: 5px solid rgb(0, 136, 136);
+}
+
+.container-user {
+  margin: 3rem 0;
+  background-color: #111112;
+  max-width: 500px;
+  margin: auto;
+  padding: 2rem 0;
+  border-radius: 10px;
+}
+
+.container-followers {
+  display: flex;
+  justify-content: center;
+  gap: 2.5rem;
+  margin: 1rem 0;
+}
+
+.followers p {
+  background-color: rgb(0, 136, 136);
+  border-radius: 5px;
+}
+
+.container-user h2{
+  margin: 20px;
+}
+
+.location {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  align-items: center;
+  font-size: 18px;
+}
+
+.link-button{
+  text-decoration: none;
+  background-color: rgb(0, 136, 136);
+  color: #fff;
+  padding: 7px 18px;
+  border-radius: 5px;
+  margin: 20px;
+}
