@@ -53,7 +53,7 @@ npm run dev
 
 Você pode acessar o link abaixo e conferir a aplicação no ar.
 
-[Link para o Deploy](https://64c0aca2288a3524f31d89e8--astonishing-caramel-031dce.netlify.app/)
+[Link para o Deploy](https://finder-profile.netlify.app)
 
 Sinta-se à vontade para explorar os projetos listados e entrar em contato comigo se tiver alguma dúvida ou feedback!
 
